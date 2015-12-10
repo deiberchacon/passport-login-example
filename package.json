@@ -1,0 +1,14 @@
+{
+  "name": "login-example",
+  "version": "1.0.0",
+  "description": "An authentication example with Express and Passport",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "author": "Deiber Chacón <deiberchacon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
